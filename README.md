@@ -1,4 +1,4 @@
-# Orbital 2020 - Eatira ![alt text](https://i.imgur.com/hy5nHIpt.png) 
+# NUS Orbital 2020 - Eatira ![alt text](https://i.imgur.com/hy5nHIpt.png) 
 _Last Updated on July 22, 2020_
 
 ### Purpose
@@ -8,14 +8,13 @@ This Eatira Web Application Project is meant for Computing students at the Natio
 
 | No.           | Features                                       | Function  |
 |:-------------:|:---------------------------------------------: |:---------:|
-| 2             | Landing Page before user logs in or registers  | ...       |
-| 7             | News Feed                                      | ...       |
-| 8             | Order Feature                                  | ...       |
-| 8             | Like and Comment                               | ...       |
-| 8             | Post                                           | ...       |
-| 8             | Order Feature                                  | ...       |
-| 9             | Users' Side Profile Page                       | ...       |
-| 10            | My Cart                                        | ...       |
+| 1             | Landing Page before user logs in or registers  | ...       |
+| 2             | News Feed                                      | ...       |
+| 3             | Order Feature                                  | ...       |
+| 4             | Like and Comment                               | ...       |
+| 5             | Post                                           | ...       |
+| 6             | Users' Side Profile Page                       | ...       |
+| 7             | My Cart                                        | ...       |
 | 8             | My Sales                                       | ...       |
 
 ### Tech Specs
